@@ -1,0 +1,10 @@
+=== Student Gradebook ===
+
+Emeka: 95.00 - Grade: A
+Lateef: 91.00 - Grade: A
+Musa: 88.00 - Grade: B
+Tolu: 85.00 - Grade: B
+Ada: 78.00 - Grade: C
+Bisi: 72.00 - Grade: C
+Chi: 64.00 - Grade: D
+Zainab: 56.00 - Grade: F
